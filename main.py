@@ -13,7 +13,7 @@ def logo():
     os.system('cls;clear')
     print("""
     VRC Name Availability Checker
-   ♥ https://github.com/Xogot
+   ♥ https://github.com/ovm
    """.replace('█', Fore.WHITE + '█' + Fore.LIGHTMAGENTA_EX))
 
 
